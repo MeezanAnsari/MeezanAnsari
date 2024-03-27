@@ -15,7 +15,7 @@
 ## 🌟 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/meezanansari/)
-- 📧 Email: meezan@example.com
+- 📧 Email: meezanansari1366@gmail.com
 
 ## 🤝 Looking to Collaborate?
 
