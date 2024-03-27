@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hi there, I'm Meezan Ansari!
 
-<!--
-**MeezanAnsari/MeezanAnsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Diploma student in Computer Engineering
+- 🌐 Passionate about web development
+- 📱 Exploring the world of mobile app development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- HTML, CSS, JavaScript for creating dynamic websites
+- React Native for basic mobile app development
+- WordPress for versatile web solutions
+
+## 🌟 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/meezanansari/)
+- 📧 Email: meezan@example.com
+
+## 🤝 Looking to Collaborate?
+
+- 💼 Open to exciting projects and collaborations
+- 🌱 Always eager to learn and adapt to new technologies
+
+Let's code something awesome together! ✨
