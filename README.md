@@ -15,7 +15,7 @@
 
 📫 How to reach me **meezanansari1366@gmail.com**
 
-⚡ Fun fact **I think I am Funny XD**
+⚡ Fun fact : **I think I am Funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
