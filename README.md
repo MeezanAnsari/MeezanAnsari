@@ -11,7 +11,7 @@
 
 👯 I’m looking to collaborate on **Web and App Projects**
 
-👨‍💻 All of my projects are available at [predatorxportfolio.wordpress.com](https://predatorxportfolio.wordpress.com)
+👨‍💻 All of my projects are available at [predatorxportfolio.wordpress.com]**(https://predatorxportfolio.wordpress.com)**
 
 📫 How to reach me **meezanansari1366@gmail.com**
 
