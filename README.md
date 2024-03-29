@@ -5,17 +5,17 @@
 <p align="left"> <a href="https://twitter.com/yusufansari1366" target="blank"><img src="https://img.shields.io/twitter/follow/yusufansari1366?logo=twitter&style=for-the-badge" alt="yusufansari1366" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-- 🔭 I’m currently working on **Payments App Prototype**
+🔭 I’m currently working on **Payments App Prototype**
 
-- 🌱 I’m currently learning **React Native**
+🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Web and App Projects**
+👯 I’m looking to collaborate on **Web and App Projects**
 
-- 👨‍💻 All of my projects are available at [predatorxportfolio.wordpress.com](predatorxportfolio.wordpress.com)
+👨‍💻 All of my projects are available at [predatorxportfolio.wordpress.com](https://predatorxportfolio.wordpress.com)
 
-- 📫 How to reach me **meezanansari1366@gmail.com**
+📫 How to reach me **meezanansari1366@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny XD**
+⚡ Fun fact **I think I am Funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
