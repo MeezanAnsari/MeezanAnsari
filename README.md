@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Meezan Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meezanansari&label=Profile%20views&color=0e75b6&style=flat" alt="meezanansari" /> </p>
-<p align="left"> <a href="https://twitter.com/yusufansari1366" target="blank"><img src="https://img.shields.io/twitter/follow/yusufansari1366?logo=twitter&style=for-the-badge" alt="yusufansari1366" /></a> </p>
+<p align="left"> <a href="https://twitter.com/predatorx_og" target="blank"><img src="https://img.shields.io/twitter/follow/predatorx_og?logo=twitter&style=for-the-badge" alt="predatorx_og" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 🔭 I’m currently working on **Payments Prototype App**
