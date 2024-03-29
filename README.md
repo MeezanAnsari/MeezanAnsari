@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **React Native**
 
-👯 I’m looking to collaborate on **Web and App Projects**
+🤝 I’m looking to collaborate on **Web and App Projects**
 
 👨‍💻 All of my projects are available at : [**predatorxportfolio.wordpress.com**](https://predatorxportfolio.wordpress.com)
 
